@@ -12,7 +12,7 @@ requirements = [
     'mock==1.3.0',
     'pbr==1.3.0',
     'py==1.4.30',
-    'pytest==2.7.2',
+    'pytest==9.0.3',
     'requests==2.7.0',
     'responses==0.4.0',
     'six==1.9.0',
