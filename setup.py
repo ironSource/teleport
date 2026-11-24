@@ -11,7 +11,7 @@ requirements = [
     'funcsigs==0.4',
     'mock==1.3.0',
     'pbr==1.3.0',
-    'py==1.4.30',
+    'py==1.11.0',
     'pytest==2.7.2',
     'requests==2.7.0',
     'responses==0.4.0',
