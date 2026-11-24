@@ -16,7 +16,7 @@ requirements = [
     'requests==2.7.0',
     'responses==0.4.0',
     'six==1.9.0',
-    'tornado==4.2.1',
+    'tornado==6.6.1',
     'wsgiref==0.1.2',
     'python-consul==0.4.5',
 ]
