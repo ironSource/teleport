@@ -6,7 +6,7 @@ except ImportError:
 requirements = [
     'argparse==1.2.1',
     'backports.ssl-match-hostname==3.4.0.2',
-    'certifi==2015.04.28',
+    'certifi==2026.10.18',
     'cookies==2.2.1',
     'funcsigs==0.4',
     'mock==1.3.0',
